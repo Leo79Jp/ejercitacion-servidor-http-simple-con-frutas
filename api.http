@@ -34,8 +34,8 @@ Accept: application/json
 GET http://localhost:3000/frutas/nombre/platano
 Accept: application/json
 
-### Verificar si Existe una Fruta por Nombre (Exacto - "manzana")
-GET http://localhost:3000/frutas/existe/manzana
+### Verificar si Existe una Fruta por Nombre (Exacto - "Manzanas")
+GET http://localhost:3000/frutas/existe/Manzanas
 Accept: application/json
 
 ### Verificar si Existe una Fruta por Nombre (Exacto - "ManZana" - Case-insensitive)
